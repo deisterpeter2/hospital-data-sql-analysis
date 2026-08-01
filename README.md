@@ -83,6 +83,29 @@ Use SQL features commonly expected in entry-level data analyst positions.
 
 ---
 
+## Screenshots
+
+### Revenue Rank by Department
+
+![Revenue-rank-by-dept](images/Revenue-rank-by-dept.jpg)
+
+### Doctors With the Highest Satisfaction Score
+
+![Dr-highest-satisfaction-score](images/Dr-highest-satisfaction-score.jpg)
+
+### Satisfaction Score by Department
+
+![Satisfaction-score-by-dept](images/Satisfaction-score-by-dept.jpg)
+
+### Patient Volume per Doctor
+
+![Patient-volume-per-dr](images/Patient-volume-per-dr.jpg)
+
+### Revenue Visits per Department
+
+![Revenue-visits-per-dept](images/Revenue-visits-per-dept.jpg)
+    
+---
 ## SQL Concepts Demonstrated
 
 - INNER JOIN
