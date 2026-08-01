@@ -132,20 +132,21 @@ hospital-data-analysis-sql/
 │
 ├── README.md
 ├── sql/
-│   ├── Hospital_Create_Tables.sql
-│   ├── Hospital_Insert_PatientVisits_Data.sql
-│   ├── Hospital_Insert_Patient_Doctors_Data.sql
-│   ├── Hospital_Insert_Dept_Treatment_Diagnosis_PayMethod_Data.sql
-│   ├── Hospital_Data_Cleaning.sql
-│   └── Hospital_Data_Analysis.sql
+│   ├── Hospital-Create-Tables.sql
+│   ├── Hospital-Insert-PatientVisits-Data.sql
+│   ├── Hospital-Insert-Patient-Doctors-Data.sql
+│   ├── Hospital-Insert-Dept-Treatment-Diagnosis-PayMethod-Data.sql
+│   ├── Hospital-Data-Cleaning.sql
+│   └── Hospital-Data-Analysis.sql
 │
 └── images/
-    ├── Hospital_Data_ERD.png
-    ├── Revenue_rank_by_dept.jpg
-    ├── Dr_highest_satisfaction_score.jpg
-    ├── Satisfaction_score_by_dept.jpg
-    ├── Patient_volume_per_dr.jpg
-    ├── Revenue_visits_per_dept.jpg
+    ├── Hospital-Data-ERD.png
+    ├── Revenue-rank-by-dept.jpg
+    ├── Dr-highest-satisfaction-score.jpg
+    ├── Satisfaction-score-by-dept.jpg
+    ├── Patient-volume-per-dr.jpg
+    ├── Revenue-visits-per-dept.jpg
+
 ```
 
 ---
